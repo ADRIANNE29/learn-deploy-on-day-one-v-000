@@ -131,6 +131,16 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+
+}
+
+#adrianne-galvez-cover {
+    background-image: url("http://imgur.com/RbIcAv9.jpg");
+}
+
+#adrianne-galvez-card {
+    background-image: url("http://imgur.com/C5CDWLM.jpg");
+
 }
 
 #irina-afanaseva-cover {
